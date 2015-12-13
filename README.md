@@ -1,7 +1,7 @@
 # imba-rails-test
 quick demo for troubleshooting
 
-Example here:
+Example here: https://mysterious-tor-7990.herokuapp.com/
 
 I didn't attempt to match the styles of http://imba.io/#/examples/dynamic.imba
 
